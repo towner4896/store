@@ -2,7 +2,7 @@
 
 Windows 64 位软件，内置在线更新。
 
-[下载 0.5.3 Windows 分享版](https://raw.githubusercontent.com/towner4896/store/master/rexue-studio/windows-x64-0.5.3.zip)
+[下载 0.5.4 Windows 分享版](https://raw.githubusercontent.com/towner4896/store/master/rexue-studio/windows-x64-0.5.4.zip)
 
 下载后完整解压，双击「热血短剧工作台.exe」。无需安装 Python。首次使用请填写自己的 AI API Key，AI 调用费用由各自账号承担。
 
@@ -23,3 +23,9 @@ https://raw.githubusercontent.com/towner4896/store/master/rexue-studio/channel.j
 ## 0.5.3 新增
 
 AI设置内置「记住密钥」，使用Windows DPAPI加密保存，重启和更新后自动读取。可以清除或取消记住，仅本次使用。密钥位于本机用户账户目录，不在程序、项目备份或分享包中。旧版首次升级后需输入一次并保存。
+
+## 0.5.4 新增
+
+修复创作笔记改回原样仍被判定未保存的问题。下载新版后，可点击「一键保存草稿并更新」，保存当前页面未完成的编辑、未发送聊天、创作笔记、选题意见和本次要求。其他标签页需分别保存。重启后点击「恢复草稿」继续编辑，草稿不会自动提交AI或覆盖正式作品。保存失败不会开始安装。
+
+旧版若一直提示未保存：先保存正文和创作笔记，将未发送的重要文字复制留存，关闭旧页面并重新启动软件，再检查更新。

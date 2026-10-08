@@ -1,17 +1,17 @@
 {
   "app_id": "rexue-studio",
-  "version": "0.5.3",
-  "notes": "新增软件内置记住API密钥功能：Windows加密保存，重启及更新后自动读取，可随时清除。",
+  "version": "0.5.4",
+  "notes": "修复未改动创作笔记仍提示未保存的问题。新增一键保存草稿并更新：保存当前页编辑、未发送聊天和选题意见，更新后可恢复；不自动调用AI。",
   "packages": {
     "source": {
-      "url": "source-0.5.3.zip",
-      "sha256": "c9109e7155c95eeaab2fa84c26dde157ddae72b568ea048290c6a99699d569a1",
-      "size": 83902
+      "url": "source-0.5.4.zip",
+      "sha256": "f989bfdf3c36258aec98f0f35a72f2c7ac756cebabbcdce4e49b544d4ae3423e",
+      "size": 86391
     },
     "windows-x64": {
-      "url": "windows-x64-0.5.3.zip",
-      "sha256": "e5e75fd5ea58f3b5eb8d7189e183458c60d89fe3dbe21b8220279aad3b822287",
-      "size": 18048981
+      "url": "windows-x64-0.5.4.zip",
+      "sha256": "9c7c7615b35343e056e10194546de3b93ad15e0de351c91ca49fb99d0a8f0299",
+      "size": 18054444
     }
   }
 }
