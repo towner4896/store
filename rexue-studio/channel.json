@@ -1,17 +1,17 @@
 {
   "app_id": "rexue-studio",
-  "version": "0.5.1",
-  "notes": "内置公开更新地址。朋友首次安装后，可直接检查、下载并重启更新；保留本机小说和项目。",
+  "version": "0.5.2",
+  "notes": "新增大纲问答搭档：AI主动提问、推荐选项，讨论后生成大纲草稿；确认应用、撤销及过期草稿保护。",
   "packages": {
     "source": {
-      "url": "source-0.5.1.zip",
-      "sha256": "d1967bf833782120f4adcca0af6260f30af5f113bc2dc0b66cb4ca25bf8b4053",
-      "size": 80779
+      "url": "source-0.5.2.zip",
+      "sha256": "6c5c0be2722f7b027cdb7b159526523138d4a9c84748c9a85cc1564d78e09a7f",
+      "size": 82107
     },
     "windows-x64": {
-      "url": "windows-x64-0.5.1.zip",
-      "sha256": "4946266f0bba707d97c660a9b161b3dc2ea182a65b386d2dd4ee2a11ca44c19a",
-      "size": 18039289
+      "url": "windows-x64-0.5.2.zip",
+      "sha256": "68d6a698b2b7070eb3747c3eafc35ed865f9f0722409067465e8d27ff20a854f",
+      "size": 18040884
     }
   }
 }
