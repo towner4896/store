@@ -1,0 +1,17 @@
+{
+  "app_id": "rexue-studio",
+  "version": "0.5.1",
+  "notes": "内置公开更新地址。朋友首次安装后，可直接检查、下载并重启更新；保留本机小说和项目。",
+  "packages": {
+    "source": {
+      "url": "source-0.5.1.zip",
+      "sha256": "d1967bf833782120f4adcca0af6260f30af5f113bc2dc0b66cb4ca25bf8b4053",
+      "size": 80779
+    },
+    "windows-x64": {
+      "url": "windows-x64-0.5.1.zip",
+      "sha256": "4946266f0bba707d97c660a9b161b3dc2ea182a65b386d2dd4ee2a11ca44c19a",
+      "size": 18039289
+    }
+  }
+}
