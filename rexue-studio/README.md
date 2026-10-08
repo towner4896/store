@@ -2,7 +2,7 @@
 
 Windows 64 位软件，内置在线更新。
 
-[下载 0.5.2 Windows 分享版](https://raw.githubusercontent.com/towner4896/store/master/rexue-studio/windows-x64-0.5.2.zip)
+[下载 0.5.3 Windows 分享版](https://raw.githubusercontent.com/towner4896/store/master/rexue-studio/windows-x64-0.5.3.zip)
 
 下载后完整解压，双击「热血短剧工作台.exe」。无需安装 Python。首次使用请填写自己的 AI API Key，AI 调用费用由各自账号承担。
 
@@ -19,3 +19,7 @@ https://raw.githubusercontent.com/towner4896/store/master/rexue-studio/channel.j
 ## 0.5.2 新增
 
 大纲问答搭档：主动提问和推荐选项，讨论后生成完整大纲草稿，预览确认后应用。支持撤销，已有小说保留并标记复核。
+
+## 0.5.3 新增
+
+AI设置内置「记住密钥」，使用Windows DPAPI加密保存，重启和更新后自动读取。可以清除或取消记住，仅本次使用。密钥位于本机用户账户目录，不在程序、项目备份或分享包中。旧版首次升级后需输入一次并保存。
