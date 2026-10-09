@@ -1,17 +1,17 @@
 {
   "app_id": "rexue-studio",
-  "version": "0.5.5",
-  "notes": "简化大纲与章节对话：只有输入框和发送按钮，按消息自动判断建议、提问或生成草稿；满意后发送“继续下一步”，采用当前草稿并开始下一章。",
+  "version": "0.5.6",
+  "notes": "新增按大纲批量生成小说：选择章节范围，顺序续写，每章自动保存；默认跳过已有正文，可选覆盖重写，可在当前章完成后停止。小说页默认看正文，不逐章提问。",
   "packages": {
     "source": {
-      "url": "source-0.5.5.zip",
-      "sha256": "bbfc4ef7b68830b989ca2c6b0adef4e89b1bbafaf88bb1f6f18bb13df65a26e9",
-      "size": 87213
+      "url": "source-0.5.6.zip",
+      "sha256": "5d8e628994baf5eadaf2573eea83bfff175b54363ca9ea55dbb1415e702adf26",
+      "size": 90110
     },
     "windows-x64": {
-      "url": "windows-x64-0.5.5.zip",
-      "sha256": "f3c92aeccb4fcc9767968602b3e9d80af4ea4b3fe8b10de2e371a5ed61f4099c",
-      "size": 18054888
+      "url": "windows-x64-0.5.6.zip",
+      "sha256": "b6b7a7bf2553475b88b2affe8d17fdb9aef7e0acf7519a80c310f3403d20d798",
+      "size": 18056968
     }
   }
 }
