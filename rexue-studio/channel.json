@@ -1,17 +1,17 @@
 {
   "app_id": "rexue-studio",
-  "version": "0.5.6",
-  "notes": "新增按大纲批量生成小说：选择章节范围，顺序续写，每章自动保存；默认跳过已有正文，可选覆盖重写，可在当前章完成后停止。小说页默认看正文，不逐章提问。",
+  "version": "0.5.7",
+  "notes": "新增官方Seedance 2.0视频制作：独立加密保存方舟密钥，复用角色参考图或asset素材，读取分段剧本，默认720p横屏10秒，任务进度、断点查询、MP4预览下载。视频单独计费，每次生成一个片段，不自动拼接整集。",
   "packages": {
     "source": {
-      "url": "source-0.5.6.zip",
-      "sha256": "5d8e628994baf5eadaf2573eea83bfff175b54363ca9ea55dbb1415e702adf26",
-      "size": 90110
+      "url": "source-0.5.7.zip",
+      "sha256": "6fd4218fdc35547e90b64f41dd3807e9d4150991aa6b2ed01832dcaafbb8b172",
+      "size": 102141
     },
     "windows-x64": {
-      "url": "windows-x64-0.5.6.zip",
-      "sha256": "b6b7a7bf2553475b88b2affe8d17fdb9aef7e0acf7519a80c310f3403d20d798",
-      "size": 18056968
+      "url": "windows-x64-0.5.7.zip",
+      "sha256": "630c54570d89200a949affca7d387cb93f4bfbd9d1d786e9384d0ce362d9a6e1",
+      "size": 18082474
     }
   }
 }
