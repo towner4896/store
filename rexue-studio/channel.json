@@ -1,17 +1,17 @@
 {
   "app_id": "rexue-studio",
-  "version": "0.5.4",
-  "notes": "修复未改动创作笔记仍提示未保存的问题。新增一键保存草稿并更新：保存当前页编辑、未发送聊天和选题意见，更新后可恢复；不自动调用AI。",
+  "version": "0.5.5",
+  "notes": "简化大纲与章节对话：只有输入框和发送按钮，按消息自动判断建议、提问或生成草稿；满意后发送“继续下一步”，采用当前草稿并开始下一章。",
   "packages": {
     "source": {
-      "url": "source-0.5.4.zip",
-      "sha256": "f989bfdf3c36258aec98f0f35a72f2c7ac756cebabbcdce4e49b544d4ae3423e",
-      "size": 86391
+      "url": "source-0.5.5.zip",
+      "sha256": "bbfc4ef7b68830b989ca2c6b0adef4e89b1bbafaf88bb1f6f18bb13df65a26e9",
+      "size": 87213
     },
     "windows-x64": {
-      "url": "windows-x64-0.5.4.zip",
-      "sha256": "9c7c7615b35343e056e10194546de3b93ad15e0de351c91ca49fb99d0a8f0299",
-      "size": 18054444
+      "url": "windows-x64-0.5.5.zip",
+      "sha256": "f3c92aeccb4fcc9767968602b3e9d80af4ea4b3fe8b10de2e371a5ed61f4099c",
+      "size": 18054888
     }
   }
 }
